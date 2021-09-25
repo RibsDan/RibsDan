@@ -12,6 +12,6 @@
 
 <img align="center" alt="Ribs-html" height="47" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 
-
+![Snake animation](https://github.com/RibsDan/RibsDan/blob/output/github-contribution-grid-snake.svg)
 
 </div>
